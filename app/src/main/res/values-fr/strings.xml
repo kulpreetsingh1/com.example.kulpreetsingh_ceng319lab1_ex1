@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">kulpreetsinghN01283727</string>
+
+    <string name="app_headline">Démonstration des méthodes du cycle de vie</string>
+
+    <string name="create">onCreate exécuté</string>
+
+    <string name="start">onStart exécuté</string>
+
+    <string name="stop">onStop exécuté</string>
+
+    <string name="destroy">onDestroy exécuté</string>
+
+    <string name="tag">Activité principale : </string>
+
+    <string name="d.tag">Cycle de la vie</string>
+
+    <string name="Ai_title">AIActivité </string>
+
+    <string name="Vr_title">AIActivité </string>
+
+    <string name="ai.tag">AI Activité </string>
+    <string name="vr.tag">VR Activité </string>
+
+    <string name="btn1">AIActivity</string>
+    <string name="btn2">VRActivity</string>
+
+</resources>

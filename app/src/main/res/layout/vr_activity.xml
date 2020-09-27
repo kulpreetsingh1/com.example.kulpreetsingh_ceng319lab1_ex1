@@ -7,7 +7,7 @@
     <TextView
         android:id="@+id/activity"
         android:textStyle="bold"
-        android:textColor="##808000"
+        android:textColor="#808000"
         android:textSize="25dp"
         android:gravity="center"
         android:layout_width="match_parent"
