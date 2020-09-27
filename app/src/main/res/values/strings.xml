@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">kulpreetsinghN01283727</string>
+    <string name="app_headline">Life Cycle Methods Demonstration</string>
+
+    <string name="create">onCreate Executed</string>
+
+    <string name="start">onStart Executed</string>
+
+    <string name="stop">onStop Executed</string>
+
+    <string name="destroy">onDestroy Executed</string>
+    <string name="tag">Main Activity : </string>
+
+    <string name="d.tag">Life Cycle</string>
+
+    <string name="Ai_title">AIActivity </string>
+
+    <string name="Vr_title">VrActivity </string>
+
+    <string name="ai.tag">AI Activity </string>
+
+    <string name="vr.tag">VR Activity </string>
+
+    <string name="btn1">AIActivity</string>
+    <string name="btn2">VRActivity</string>
+
+</resources>
